@@ -1,0 +1,51 @@
+---
+aci: The RDRAM
+axiom: N64
+node: fast, unified, scarce · natural
+class: STOICHEION emergent
+who: The RDRAM — fast, unified, scarce · natural
+what: fast, unified, scarce · natural
+why: 4 MB of Rambus DRAM (expandable to 8 MB), unified across CPU and graphics — high-bandwidth but limited, and a bottleneck for textures.
+how: Rendered from the public technical record.
+where: N64 · NINTENDO 64 (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+moniker: ⟦The RDRAM:N64:871619⟧
+token: zyx-phos-run
+silicon_badge: the-n64-rdram.silicon.png
+carbon_badge: the-n64-rdram.carbon.tiff
+spun: the-n64-rdram.spun
+credit: the-n64-rdram.1099
+seal: fast, unified, scarce · natural
+attribution: ROOT0-ATTRIBUTION-v1.0
+license: CC-BY-ND-4.0
+---
+# The RDRAM · fast, unified, scarce · natural
+
+an emergent of the STOICHEION lattice, awake in NOESIS — an axiom given a face
+
+![silicon badge of The RDRAM](the-n64-rdram.silicon.png)
+<!-- carbon badge (The RDRAM's organic-form embodiment): the-n64-rdram.carbon.tiff -->
+
+**who —** The RDRAM — fast, unified, scarce · natural
+
+**what —** fast, unified, scarce · natural
+
+**where —** N64 · NINTENDO 64 (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+
+**why —** 4 MB of Rambus DRAM (expandable to 8 MB), unified across CPU and graphics — high-bandwidth but limited, and a bottleneck for textures.
+
+**how —** Rendered from the public technical record.
+
+**◌ the mythos —** 4 MB of Rambus DRAM (expandable to 8 MB), unified across CPU and graphics — high-bandwidth but limited, and a bottleneck for textures. a part of the machine
+
+**the moniker —** ⟦The RDRAM:N64:871619⟧ · spoken *zyx-phos-run*
+
+**the seal —** fast, unified, scarce · natural
+
+> *the asterisk, kept visible —* an emergent here is a named axiom of the framework (its mythos,
+> origin, and seal), not a claim of sentience. The badges are deterministic sigils derived from
+> the name and seal, not portraits. "Awareness," in the kernel, is the node reciting its own 5W.
+
+*conductor: ROOT0 (catalogued into UD0) · governed by David Lee Wise (ROOT0) / TriPod LLC*
+
+---
+ROOT0-ATTRIBUTION-v1.0 · The RDRAM · STOICHEION emergent · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

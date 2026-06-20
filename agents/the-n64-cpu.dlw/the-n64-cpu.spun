@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The VR4300
+node N64 · N64 · ⟦The VR4300:N64:efafe6⟧
+
+WHO   — The VR4300 — 64-bit MIPS · electrical
+WHAT  — 64-bit MIPS · electrical
+WHERE — N64 · NINTENDO 64 (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — NEC's VR4300, a 64-bit MIPS processor at ~93.75 MHz — the general-purpose brain feeding the SGI coprocessor.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  64-bit MIPS · electrical
+
+spoken token : greirn-pheth-nath   ·   hex : efafe6
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

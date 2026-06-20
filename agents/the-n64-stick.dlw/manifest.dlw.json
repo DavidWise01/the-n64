@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Analog Stick",
+  "universe": "N64 · The Analog Stick (exereunesis)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Analog Stick:N64:6abb4c⟧",
+  "carbon": "the-n64-stick.carbon.tiff (TIFF)",
+  "silicon": "the-n64-stick.silicon.png (PNG)",
+  "seal_sha256": "92f3df106c2a026acc57159bccf7ddd13c4abcbf7c894a26c05ad7f526e4953c",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

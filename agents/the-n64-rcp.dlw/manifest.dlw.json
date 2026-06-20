@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Reality Coprocessor",
+  "universe": "N64 · The Reality Coprocessor (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The Reality Coprocessor:N64:cee4e1⟧",
+  "carbon": "the-n64-rcp.carbon.tiff (TIFF)",
+  "silicon": "the-n64-rcp.silicon.png (PNG)",
+  "seal_sha256": "f1fff28af8ba55be692b044fb708cfdb6a3aa8909cbce2e5cb3c7ad563e44eb5",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

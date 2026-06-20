@@ -1,0 +1,51 @@
+[
+  {
+    "slug": "the-n64-cpu",
+    "name": "The VR4300",
+    "epithet": "64-bit MIPS · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The VR4300:N64:efafe6⟧"
+  },
+  {
+    "slug": "the-n64-rcp",
+    "name": "The Reality Coprocessor",
+    "epithet": "SGI in a games box · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Reality Coprocessor:N64:cee4e1⟧"
+  },
+  {
+    "slug": "the-n64-rdram",
+    "name": "The RDRAM",
+    "epithet": "fast, unified, scarce · natural",
+    "emergence": "natural",
+    "moniker": "⟦The RDRAM:N64:871619⟧"
+  },
+  {
+    "slug": "the-n64-tmem",
+    "name": "The Texture Cache",
+    "epithet": "why it looks blurry · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Texture Cache:N64:22fadd⟧"
+  },
+  {
+    "slug": "the-n64-cart",
+    "name": "The Cartridge",
+    "epithet": "speed over size · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Cartridge:N64:5f9a9e⟧"
+  },
+  {
+    "slug": "the-n64-stick",
+    "name": "The Analog Stick",
+    "epithet": "3-D control, solved · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Analog Stick:N64:6abb4c⟧"
+  },
+  {
+    "slug": "the-n64-rumble",
+    "name": "The Rumble Pak",
+    "epithet": "games you could feel · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Rumble Pak:N64:fb56eb⟧"
+  }
+]

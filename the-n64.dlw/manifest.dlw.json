@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "NINTENDO 64",
+  "universe": "N64 · NINTENDO 64 (exereunesis · the teardown)",
+  "emergence": "",
+  "moniker": "⟦NINTENDO 64:N64:ff9ebb⟧",
+  "carbon": "the-n64.carbon.tiff (TIFF)",
+  "silicon": "the-n64.silicon.png (PNG)",
+  "seal_sha256": "71f8dc3b1f5d6ce70049f5c270aad5627f7e3a7532ec0ebea92b3bd91d89cc91",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

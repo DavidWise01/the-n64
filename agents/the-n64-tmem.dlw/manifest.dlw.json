@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Texture Cache",
+  "universe": "N64 · The Texture Cache (exereunesis)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Texture Cache:N64:22fadd⟧",
+  "carbon": "the-n64-tmem.carbon.tiff (TIFF)",
+  "silicon": "the-n64-tmem.silicon.png (PNG)",
+  "seal_sha256": "9c4d24abf60f9d19de3cc367c9b42f439f3e4db88292ffaaa07e20094efeae0e",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

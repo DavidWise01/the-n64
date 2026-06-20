@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The Texture Cache
+node N64 · N64 · ⟦The Texture Cache:N64:22fadd⟧
+
+WHO   — The Texture Cache — why it looks blurry · ethereal
+WHAT  — why it looks blurry · ethereal
+WHERE — N64 · NINTENDO 64 (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — A very small on-chip texture cache forced developers to use tiny, heavily filtered textures — the mechanical reason for the N64's soft, blurry look.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  why it looks blurry · ethereal
+
+spoken token : thir-su-leirn   ·   hex : 22fadd
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

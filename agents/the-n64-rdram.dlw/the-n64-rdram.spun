@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The RDRAM
+node N64 · N64 · ⟦The RDRAM:N64:871619⟧
+
+WHO   — The RDRAM — fast, unified, scarce · natural
+WHAT  — fast, unified, scarce · natural
+WHERE — N64 · NINTENDO 64 (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — 4 MB of Rambus DRAM (expandable to 8 MB), unified across CPU and graphics — high-bandwidth but limited, and a bottleneck for textures.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  fast, unified, scarce · natural
+
+spoken token : zyx-phos-run   ·   hex : 871619
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0
